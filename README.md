@@ -1,4 +1,4 @@
-# Capstone-2
+# Data Science Project-2
 Airbnb Price Prediction in Los Angeles, California using Supervised Learning
 
 DataSet:
